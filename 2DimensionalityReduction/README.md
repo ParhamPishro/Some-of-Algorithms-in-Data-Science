@@ -20,3 +20,5 @@
 + Manifold Learning (Nonlinear Methods)
 
 تقسیم شده اند.
+
+![This is an image](https://miro.medium.com/max/720/1*WhKA9Jboj_1sHa0MbWQQ7w.webp)
