@@ -16,7 +16,7 @@
 + ### 3 Clustering
   + #### 3.1 K-Means
   + #### 3.2 DBScan
-  + #### 3.3 EM
+  + #### 3.3 Soft Clustering (EM)
 + ### 4 Classification
   + #### 4.1 K-Nearest Neighbors (KNN)
   + #### 4.2 Regression
@@ -31,9 +31,9 @@
   + #### 6.1 Apriori
 + ### 7 Shapley Value
 + ### 8 Ensemble Methods
-  + #### 8.1 B
-  + #### 8.2 B
-  + #### 8.3 S
+  + #### 8.1 Bagging
+  + #### 8.2 Boosting
+  + #### 8.3 Stacking
 
 ----
 
