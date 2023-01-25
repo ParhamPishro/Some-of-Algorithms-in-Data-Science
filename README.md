@@ -11,8 +11,8 @@
     + ##### 2.2.3 Linear Discriminant Analaysis (LDA)
     + ##### 2.2.4 Singular Value Decomposition (SVD)
   + #### 2.3 Manifold Learning
-    + 2.3.1 Kernel
-    + 2.3.2 t-SNE
+    + 2.3.1 Kernel PCA
+    + 2.3.2 t-distributed Stochastic Neighbor Embedding (t-SNE)
 + ### 3 Clustering
   + #### 3.1 K-Means
   + #### 3.2 DBScan
